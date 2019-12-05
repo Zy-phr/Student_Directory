@@ -1,0 +1,61 @@
+@model IEnumerable<Student_Directory.Models.Major>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Major_Num)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Major_Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Major_Dept)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Major_Desc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Major_Degree)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+             <td>
+                @Html.DisplayFor(modelItem => item.Major_Num)
+            </td>
+            <td>
+                <a asp-action="Enrolled" asp-route-id="@item.Major_Num">
+                @Html.DisplayFor(modelItem => item.Major_Id)
+                </a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Major_Dept)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Major_Desc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Major_Degree)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Major_Num">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Major_Num">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Major_Num">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

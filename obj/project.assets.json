@@ -8214,19 +8214,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/RickySanchez/.nuget/packages/": {}
+    "/Users/richard.sanchez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/RickySanchez/Desktop/CG_Project/Student_Directory/Student_Directory.csproj",
+      "projectUniqueName": "/Users/richard.sanchez/Desktop/Student_Directory/Student_Directory.csproj",
       "projectName": "Student_Directory",
-      "projectPath": "/Users/RickySanchez/Desktop/CG_Project/Student_Directory/Student_Directory.csproj",
-      "packagesPath": "/Users/RickySanchez/.nuget/packages/",
-      "outputPath": "/Users/RickySanchez/Desktop/CG_Project/Student_Directory/obj/",
+      "projectPath": "/Users/richard.sanchez/Desktop/Student_Directory/Student_Directory.csproj",
+      "packagesPath": "/Users/richard.sanchez/.nuget/packages/",
+      "outputPath": "/Users/richard.sanchez/Desktop/Student_Directory/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/RickySanchez/.nuget/NuGet/NuGet.Config"
+        "/Users/richard.sanchez/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"

@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Student_Directory.csproj",
+  "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Student_Directory.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14344,93 +14344,93 @@
   "RootNamespace": "Student_Directory",
   "Documents": [
     {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Major/Create.cshtml",
-      "TargetPath": "Views/Major/Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views/Shared/_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Student/Details.cshtml",
-      "TargetPath": "Views/Student/Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views/Home/Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Home/Index.cshtml",
-      "TargetPath": "Views/Home/Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Student/Edit.cshtml",
-      "TargetPath": "Views/Student/Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Major/Enrolled.cshtml",
-      "TargetPath": "Views/Major/Enrolled.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Student/Index.cshtml",
-      "TargetPath": "Views/Student/Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views/Shared/_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Shared/Error.cshtml",
-      "TargetPath": "Views/Shared/Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/_ViewImports.cshtml",
-      "TargetPath": "Views/_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Student/Create.cshtml",
-      "TargetPath": "Views/Student/Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/_ViewStart.cshtml",
-      "TargetPath": "Views/_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Major/Delete.cshtml",
-      "TargetPath": "Views/Major/Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Student/Delete.cshtml",
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Student/Delete.cshtml",
       "TargetPath": "Views/Student/Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Major/Details.cshtml",
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Major/Delete.cshtml",
+      "TargetPath": "Views/Major/Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Major/Details.cshtml",
       "TargetPath": "Views/Major/Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Major/Index.cshtml",
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views/Shared/_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Student/Create.cshtml",
+      "TargetPath": "Views/Student/Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/_ViewImports.cshtml",
+      "TargetPath": "Views/_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Home/Index.cshtml",
+      "TargetPath": "Views/Home/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Major/Index.cshtml",
       "TargetPath": "Views/Major/Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/richard.sanchez/Desktop/CG_Project/Student_Directory/Views/Major/Edit.cshtml",
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Shared/Error.cshtml",
+      "TargetPath": "Views/Shared/Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Major/Edit.cshtml",
       "TargetPath": "Views/Major/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Student/Details.cshtml",
+      "TargetPath": "Views/Student/Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/_ViewStart.cshtml",
+      "TargetPath": "Views/_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Major/Create.cshtml",
+      "TargetPath": "Views/Major/Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Student/Index.cshtml",
+      "TargetPath": "Views/Student/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Student/Edit.cshtml",
+      "TargetPath": "Views/Student/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Major/Enrolled.cshtml",
+      "TargetPath": "Views/Major/Enrolled.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/richard.sanchez/Desktop/CyberGroup/Student_Directory/Views/Home/Privacy.cshtml",
+      "TargetPath": "Views/Home/Privacy.cshtml",
       "FileKind": "mvc"
     }
   ],
